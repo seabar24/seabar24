@@ -1,4 +1,4 @@
-# <p align="center">💻 👾 Hi I'm Sean 🖱️🖥️</p>
+# <p align="center">💻 👾 Hi, I'm Sean 🖱️🖥️</p>
 ---
 # <p align="center">![computer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHluazVxbmYwOTRhOW1wMzU0cnNtNXY2cHFnbm5iZ3d1aWQ0dHQxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8c9NInMpXixMjR6lTH/giphy.gif)</p>
 
