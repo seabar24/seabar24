@@ -2,7 +2,7 @@
 ---
 # <p align="center">![computer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHluazVxbmYwOTRhOW1wMzU0cnNtNXY2cHFnbm5iZ3d1aWQ0dHQxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8c9NInMpXixMjR6lTH/giphy.gif)</p>
 
-![Champlain](https://github.com/seabar24/seabar24/assets/71162295/13d207fd-f9ea-4f8e-8c01-cdc4b95f34f3) Currently @ Champlain College. Graduating May 2024
+![Champlain](https://github.com/seabar24/seabar24/assets/71162295/13d207fd-f9ea-4f8e-8c01-cdc4b95f34f3) Graduated Champlain College May 2024.
 ---
 - 🔭 I’m currently working on my **Capstone Project, SysAdmin Projects, Python Projects, and Network Engineering.**
 - 🌱 I’m currently learning **Python, Ansible, SysAdmin Topics, Computer Networking Topics.**
