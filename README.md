@@ -4,8 +4,8 @@
 
 ![Champlain](https://github.com/seabar24/seabar24/assets/71162295/13d207fd-f9ea-4f8e-8c01-cdc4b95f34f3) Graduated Champlain College May 2024.
 ---
-- 🔭 I’m currently working on my **Capstone Project, SysAdmin Projects, Python Projects, and Network Engineering.**
-- 🌱 I’m currently learning **Python, Ansible, SysAdmin Topics, Computer Networking Topics.**
+- 🔭 I’m currently working at **Charles IT**
+- 🌱 I’m currently studying for **CompTIA Network+ Exam**
 - 💬 Ask me about **System Administration, Networking, and Cyber Security.**
 - 📫 How to reach me: [![sean-barrick](https://github.com/seabar24/seabar24/assets/71162295/735eda6b-b49d-43ff-ac2f-8fce3a34a1c7)](https://www.linkedin.com/in/sean-barrick/)
 - 😄 Pronouns: He/Him
